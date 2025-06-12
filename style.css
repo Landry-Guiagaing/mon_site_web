@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+
+    #top-banner{
+        display: flex;
+        justify-content: center;
+        color: white;
+        background-color: rgb(61, 59, 59);
+        font-size: 30px;
+    }
+}
